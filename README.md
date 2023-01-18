@@ -13,6 +13,9 @@ My name is Illia and I am a Junior Java Developer. I am passionate about creatin
 - **Linux**: Familiarity with Linux/Unix environments.
 - **Problem-solving**: Strong analytical and debugging skills.
 
+## My Resume
+You can find more information about me in [resume](https://github.com/goodillich2/resume)
+
 ## Projects
 - **Project 1**: [Market](https://github.com/goodillich2/Spring-Market) - This project is an e-commerce market for selling Apple technology products. It is built using the Spring Boot framework, which provides an easy and efficient way to set up a web application. The application also uses Spring Security to handle authentication and authorization, Hibernate for data persistence and Tomcat as the web server. The front-end is built using Thymeleaf and it's connected with Amazon RDS Database. The application allows users to browse and purchase Apple technology products with a user-friendly and intuitive interface.
 - **Project 2**: [Hotel](https://github.com/goodillich2/Hotel) - This project is a hotel management system built using the Spring Boot framework. It features role-based access control with different features available to the admin and user roles. The application uses Spring Security to handle authentication and authorization, Hibernate for data persistence, Tomcat as the web server and Thymeleaf for the front-end. The application also uses MySQL as the database. The system allows for easy management of hotel reservations, room availability, and customer information. Users can also easily browse and make reservations for hotel rooms. The application has a user-friendly and intuitive interface that makes it easy for both admin and users to use.
