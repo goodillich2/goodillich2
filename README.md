@@ -37,7 +37,7 @@ Key functionality:
 
 Tech stack: Java, Spring Boot, Python, scikit-learn, PostgreSQL, REST API, Docker, HTML, CSS, Thymeleaf
 
-[View project](LINK_HERE)
+[View project](https://github.com/goodillich2/banking-credit-scoring)
 
 ## Other Projects
 
